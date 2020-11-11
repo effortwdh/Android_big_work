@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".SearchActivity"
+    tools:showIn="@layout/activity_search"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+        <TextView
+            android:id="@+id/search_listview_tv"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:hint="无搜索结果"
+            android:gravity="center"
+            android:textSize="20dp"
+            android:visibility="gone"/>
+
+        <TextView
+            android:id="@+id/search_tv1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="笔记本"
+            android:paddingLeft="52dp"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:textSize="15sp"
+            android:visibility="gone" />
+
+        <ListView
+            android:id="@+id/search_listview_notebook"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:visibility="visible"
+            android:divider="@null"/>
+
+        <TextView
+            android:id="@+id/search_tv2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="分区"
+            android:paddingLeft="52dp"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:textSize="15sp"
+            android:visibility="gone"/>
+
+        <ListView
+            android:id="@+id/search_listview_subarea"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:visibility="visible"
+            android:divider="@null"
+            />
+
+        <TextView
+            android:id="@+id/search_tv3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="页面"
+            android:paddingLeft="52dp"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:textSize="15sp"
+            android:visibility="gone"
+            />
+
+        <ListView
+            android:id="@+id/search_listview_note"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:visibility="visible"
+            android:divider="@null"/>
+
+
+    </LinearLayout>
+</android.support.v4.widget.NestedScrollView>

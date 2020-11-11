@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".MainActivity"
+    tools:showIn="@layout/activity_main"
+    android:fillViewport="true"
+    >
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+        <Button
+            android:id="@+id/main_bt_latter"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="-8dp"
+            android:layout_marginRight="-8dp"
+            android:layout_marginLeft="-8dp"
+            android:drawableLeft="@mipmap/clock"
+            android:padding="@dimen/left_margin"
+            android:text="最近访问的页面"
+            android:drawablePadding="@dimen/draw_text"
+            android:gravity="left|center_vertical"
+            style="@style/Widget.AppCompat.Button.Borderless"/>
+
+        <TextView
+            android:id="@+id/main_iv_note"
+            android:layout_below="@+id/main_bt_latter"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="-8dp"
+            android:background="@color/color_gray_background"
+            android:paddingLeft="25dp"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:text="笔记本"
+            android:textColor="@color/color_gray_word"
+            />
+
+        <ListView
+            android:id="@+id/main_listview"
+            android:layout_below="@+id/main_iv_note"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:divider="@null"
+            >
+        </ListView>
+
+        <Button
+            android:id="@+id/main_bt_more"
+            android:layout_below="@+id/main_listview"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="-8dp"
+            android:layout_marginLeft="-8dp"
+            android:text="更多笔记本"
+            android:textSize="15sp"
+            android:paddingLeft="60dp"
+            android:paddingTop="24dp"
+            android:paddingBottom="24dp"
+            android:textColor="@color/colorPrimary"
+            android:gravity="left|center_vertical"
+            style="@style/Widget.AppCompat.Button.Borderless"
+            />
+    </RelativeLayout>
+
+
+
+</android.support.v4.widget.NestedScrollView>

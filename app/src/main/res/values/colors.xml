@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff8c00</color>
+    <color name="colorPrimaryDark">#ff6600</color>
+    <color name="green">#00ff00</color>
+    <color name="colorAccent">#ff8c00</color>
+    <color name="colorButtonNormal">#ffff</color>
+    <color name="textColor">#000000</color>
+    <color name="color_gray_background">#e6e6e6</color>
+    <color name="color_gray_word">#696969</color>
+    <color name="popupBackground">#ffff</color>
+    <color name="ppp">#e6e6e6</color>
+    <color name="buttonBack">#E8E8E8</color>
+</resources>

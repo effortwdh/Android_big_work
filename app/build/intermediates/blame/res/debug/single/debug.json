@@ -1,0 +1,326 @@
+[
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_sync_black_24dp.png.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_sync_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_listview_main.xml.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\src\\main\\res\\layout\\listview_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_notifications_black_24dp.png.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_info_black_24dp.png.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_info_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_notifications_black_24dp.png.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_listview_search_subarea.xml.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\src\\main\\res\\layout\\listview_search_subarea.xml"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_listview_search_note.xml.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\src\\main\\res\\layout\\listview_search_note.xml"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_listview_divider.xml.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\src\\main\\res\\drawable\\listview_divider.xml"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_empty_tv.png.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\src\\main\\res\\mipmap-xxxhdpi\\empty_tv.png"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_notifications_black_24dp.png.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_listview_subarea.xml.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\src\\main\\res\\layout\\listview_subarea.xml"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_notebook.png.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\src\\main\\res\\mipmap-xxxhdpi\\notebook.png"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_search.png.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\src\\main\\res\\mipmap-xxxhdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_subarea.xml.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\src\\main\\res\\layout\\activity_subarea.xml"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_icon.png.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\src\\main\\res\\mipmap-xxxhdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main.xml.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\xml_pref_headers.xml.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\src\\main\\res\\xml\\pref_headers.xml"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_search_listview.xml.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\src\\main\\res\\layout\\search_listview.xml"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\xml_pref_notification.xml.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\src\\main\\res\\xml\\pref_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_sync_black_24dp.png.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_sync_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_play_main.xml.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\src\\main\\res\\layout\\activity_play_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_addnote.xml.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\src\\main\\res\\layout\\activity_addnote.xml"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_listview_note.xml.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\src\\main\\res\\layout\\listview_note.xml"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_return1.png.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\src\\main\\res\\mipmap-xxxhdpi\\return1.png"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_clock.png.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\src\\main\\res\\mipmap-xxxhdpi\\clock.png"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_bin.png.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\src\\main\\res\\mipmap-xxxhdpi\\bin.png"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_plus.png.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\src\\main\\res\\mipmap-xxxhdpi\\plus.png"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_note.png.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\src\\main\\res\\mipmap-xxxhdpi\\note.png"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_search.xml.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\src\\main\\res\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_info_black_24dp.png.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_info_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_sync_black_24dp.xml.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_sync_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_setting.png.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\src\\main\\res\\mipmap-xxxhdpi\\setting.png"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_note.xml.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\src\\main\\res\\layout\\content_note.xml"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_listview_search_notebook.xml.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\src\\main\\res\\layout\\listview_search_notebook.xml"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_return0.png.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\src\\main\\res\\mipmap-xxxhdpi\\return0.png"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_addnote.xml.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\src\\main\\res\\menu\\menu_addnote.xml"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_info_black_24dp.xml.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_info_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_notifications_black_24dp.png.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_sync_black_24dp.png.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_sync_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_notifications_black_24dp.png.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_play.png.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\src\\main\\res\\mipmap-xxxhdpi\\play.png"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_icon_round.png.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\src\\main\\res\\mipmap-xxxhdpi\\icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_info_black_24dp.png.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_info_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_sync_black_24dp.png.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_sync_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_info_black_24dp.png.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_info_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_notifications_black_24dp.png.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_context.xml.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\src\\main\\res\\menu\\menu_context.xml"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_subarea.xml.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\src\\main\\res\\layout\\content_subarea.xml"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_info_black_24dp.png.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_info_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\xml_pref_general.xml.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\src\\main\\res\\xml\\pref_general.xml"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_note.xml.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\src\\main\\res\\layout\\activity_note.xml"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_main.xml.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\src\\main\\res\\layout\\dialog_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_info_black_24dp.png.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_info_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\xml_pref_data_sync.xml.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\src\\main\\res\\xml\\pref_data_sync.xml"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_addnote.xml.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\src\\main\\res\\layout\\content_addnote.xml"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_refresh.png.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\src\\main\\res\\mipmap-xxxhdpi\\refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_sync_black_24dp.png.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_sync_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_notifications_black_24dp.xml.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_sync_black_24dp.png.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_sync_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\weidu\\Desktop\\android-main\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    }
+]

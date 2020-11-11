@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <android.support.v7.widget.AppCompatTextView
+        android:id="@+id/search_notebook"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="@dimen/text_margin"
+        android:paddingBottom="@dimen/text_margin"
+        android:drawableLeft="@mipmap/notebook"
+        android:drawablePadding="@dimen/draw_text"
+        android:paddingLeft="22dp"
+        android:textColor="@color/textColor"
+        />
+
+</android.support.constraint.ConstraintLayout>
