@@ -264,6 +264,7 @@ public class PlayGameActivity extends AppCompatActivity implements View.OnClickL
             x2 = event.getX();
             y2 = event.getY();
             boolean flag = false;
+            //判断方位
             if (y1 - y2 > 100) {
                 flag = doUp();
             } else if (y2 - y1 > 100) {
@@ -273,12 +274,10 @@ public class PlayGameActivity extends AppCompatActivity implements View.OnClickL
             } else if (x2 - x1 > 100) {
                 flag = doRight();
             }
-
             //生成一个新的数
             if (flag) {
                 generateNew();
             }
-
             refresh();
         }
         return super.onTouchEvent(event);
@@ -318,7 +317,6 @@ public class PlayGameActivity extends AppCompatActivity implements View.OnClickL
         }
         //更新emptyItem;
         refreshEmptyItem();
-
         //判断游戏是否结束
         if(emptyItem.size() == 0){
             if(isEnd()){
@@ -343,7 +341,6 @@ public class PlayGameActivity extends AppCompatActivity implements View.OnClickL
                 builder.create().show();
             }
         }
-
         scoreText.setText(Integer.toString(score));
     }
 

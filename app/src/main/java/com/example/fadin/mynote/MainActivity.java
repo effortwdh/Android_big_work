@@ -76,19 +76,14 @@ public class MainActivity extends AppCompatActivity {
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
-        // Inflate the menu; this adds items to the action bar if it is present.
         getMenuInflater().inflate(R.menu.menu_main, menu);
         return true;
     }
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
-        // Handle action bar item clicks here. The action bar will
-        // automatically handle clicks on the Home/Up button, so long
-        // as you specify a parent activity in AndroidManifest.xml.
         int id = item.getItemId();
 
-        //noinspection SimplifiableIfStatement
         if (id == R.id.action_settings) {
             Intent intent=new Intent(MainActivity.this,SettingsActivity.class);
             startActivity(intent);
@@ -239,7 +234,6 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 dialog.dismiss();
-
             }
         });
         /*注意获取dialog中layout控件时findViewById前要加dialog.*/
@@ -257,8 +251,6 @@ public class MainActivity extends AppCompatActivity {
                 insertData(str);
                 refreshListview();
                 dialog.dismiss();
-                /*Snackbar.make(MainActivity.this, "Replace with your own action", Snackbar.LENGTH_LONG)
-                        .setAction("Action", null).show();*/
                 Toast.makeText(getApplicationContext(), "创建成功",Toast.LENGTH_SHORT ).show();
             }
         });
@@ -362,22 +354,12 @@ public class MainActivity extends AppCompatActivity {
         simpleCursorAdapter.changeCursor(Cursor);
         setListViewHeight(listView);
     }
-
     /*notebook表插入操作*/
     private void insertData(String name){
         mySQL=new MySQL(getApplicationContext(),"mynote.db",null,1);
         db=mySQL.getWritableDatabase();
         db.execSQL("insert into notebook (name) values (?)",new String[]{name});
-        /*Cursor cursor=db.rawQuery("select * from notebook where name="+"英语",null);*/
-        /*cursor.moveToFirst();
-        int notebook_id=cursor.getInt(cursor.getColumnIndex("_id"));
-        db.execSQL("insert into subarea (name,notebook_id) values(?,?)",new Object[]{"新建分区",notebook_id});
-        cursor=db.rawQuery("select * from subarea where name=? and notebook_id=?",new String[]{"新建分区",notebook_id+""});
-        cursor.moveToFirst();
-        int subarea_id=cursor.getInt(cursor.getColumnIndex("_id"));
-        db.execSQL("insert into note (name,subarea_id) values(?,?)",new Object[]{"新建笔记",subarea_id});*/
     }
-
     /*删操作*/
     private void deleteData(int _id){
         mySQL=new MySQL(getApplicationContext(),"mynote.db",null,1);
